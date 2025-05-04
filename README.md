@@ -1,0 +1,2 @@
+# Voice-Controlled-Robot-for-Health-Home-and-Work-Management
+AI-driven voice-controlled robotics are revolutionizing productivity, health tracking, and home automation. This research explores a prototype integrating **Gemini API** and **Kachaka Robot** for seamless real-time interaction. It discusses system design, implementation, challenges, and future improvements in voice recognition for robotics.
